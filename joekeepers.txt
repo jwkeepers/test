@@ -1,0 +1,2 @@
+~\Documents\GitHub\git_proj> mkdir /test
+~\Documents\GitHub\git_proj\test> git init
